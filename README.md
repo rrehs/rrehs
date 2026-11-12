@@ -1,6 +1,6 @@
 # Hi, I'm Khairul Arman
 
-Computer Science Student at UiTM interested in 
+Computer Science Student at UiTM interested in Computer Vision
 
 ## About me
 - Studying: CS230, UiTM
@@ -14,5 +14,5 @@ Computer Science Student at UiTM interested in
 - [Project name](link-to-your-repository): one sentence about it
 
 ## Contact
-- LinkedIn: [[your profile link]](https://www.linkedin.com/in/muhammad-khairul-arman-0b11a6288/)
+- LinkedIn: [[Khairul Arman]](https://www.linkedin.com/in/muhammad-khairul-arman-0b11a6288/)
 - Email: [khairularman56@gmail.com]
