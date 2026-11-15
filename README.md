@@ -8,10 +8,10 @@ Computer Science Student at UiTM interested in Computer Vision
 - My FYP area: Computer Vision And Gamification
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+[CI, Java, SQL, Jenkins]
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- [BIMB UI/UX Improvement]([link-to-your-repository](https://github.com/rrehs/BIMB-App-Fix)): Suggested improvements to the BIMB App
 
 ## Contact
 - LinkedIn: [[Khairul Arman]](https://www.linkedin.com/in/muhammad-khairul-arman-0b11a6288/)
